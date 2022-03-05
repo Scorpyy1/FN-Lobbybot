@@ -10,7 +10,7 @@
     },
     "Control": {
       "Give full access to": "FortniteBalls",
-      "Public Bot": true
+      "Public Bot": false
     },
     "Party": {
       "Join party on invitation": true,
@@ -20,17 +20,17 @@
           "Banner Name": "OtherBanner3",
           "Season Level": 123
         },
-        "Skin": "Inferno",
+        "Skin": "Sparkle Specialist",
         "Skin Variants": [],
         "Backpack": "",
         "Backpack Variants":[],
         "Pet": "",
         "Pet Variants":[],
-        "Pickaxe": "",
+        "Pickaxe": "The axe of Champions",
         "Emote": "Scenario",
         "Emoji": ""
       },
       "Privacy": "Public",
-      "Platform": "Mac"
+      "Platform": "MAC"
     }
   }
