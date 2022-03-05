@@ -1,4 +1,4 @@
-//lol molto meglio così
+# lol molto meglio così
 
 import asyncio
 import Config
