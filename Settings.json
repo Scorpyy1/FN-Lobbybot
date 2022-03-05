@@ -1,0 +1,36 @@
+{
+    "Bot Version": "1.0.0",
+    "Auto Start": true,
+    "Default item search language": "en",
+    "Secret Password": "PASSWORD",
+    "Account": {
+      "Email": "",
+      "Password": "",
+      "Sub Accounts": {}
+    },
+    "Control": {
+      "Give full access to": "FortniteBalls",
+      "Public Bot": true
+    },
+    "Party": {
+      "Join party on invitation": true,
+      "Cosmetics": {
+        "Banner": {
+          "Banner Color": "defaultcolor15",
+          "Banner Name": "OtherBanner28",
+          "Season Level": 999
+        },
+        "Skin": "Inferno",
+        "Skin Variants": [],
+        "Backpack": "",
+        "Backpack Variants":[],
+        "Pet": "",
+        "Pet Variants":[],
+        "Pickaxe": "",
+        "Emote": "Scenario",
+        "Emoji": ""
+      },
+      "Privacy": "Public",
+      "Platform": "Mac"
+    }
+  }
